@@ -1,4 +1,3 @@
-README.txt
 
 Link to unlisted youtube video:
 https://www.youtube.com/watch?v=EwMvVcbfSy8
