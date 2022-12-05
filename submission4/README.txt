@@ -11,6 +11,9 @@ Bangla Question Anwering System Using BERT Language Models.
 First Paper draft link:
 # to be given
 
+Paper presentation (anyone can view without login):
+# to be given
+
 Paper submission date (to workshop/conference):
 December 20, 2022
 
