@@ -9,7 +9,7 @@ Paper title:
 Bangla Question Anwering System Using BERT Language Models.
 
 First Paper draft link:
-# to be given
+https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf
 
 Paper presentation (anyone can view without login):
 # to be given
