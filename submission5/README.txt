@@ -16,7 +16,7 @@ Visual Storytelling: Generating Stories from images using Transformers
 
 
 First Paper draft link:
-
+https://github.com/sanjana-sabah-khan/cse424/blob/main/submission5/Visual_Storytelling__Generating_Stories_from_Images.pdf
 
 Final Paper Link:
 
