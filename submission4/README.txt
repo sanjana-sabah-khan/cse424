@@ -2,9 +2,11 @@
 Unlisted youtube video:
 # to be given
 
-Conference submitted paper / paper submission / login Link:
-# to be given
+Proof of Submission:
 
+
+Conference submitted paper / paper submission / login Link:
+https://edas.info/N30081
 
 Paper title:
 Bangla Question Anwering System Using BanglaBERT Language Model.
@@ -20,16 +22,16 @@ Paper ppt presentation (anyone can view without login):
 # to be given
 
 Paper submission date (to workshop/conference):
-January 4, 2023
+January 15, 2023
 
 Paper submission ID: (received) from conference/workshop
-# to be given
+1570875982
 
 Conference Name:
-4th International Conference on Natural Language Processing and Computational Linguistics (NLPCL 2023)
+IJCNN 2023 : International Joint Conference on Neural Networks
 
 Conference URL:
-https://ccsit2023.org/nlpcl/index
+https://2023.ijcnn.org/
 
 Group Number:
 06
