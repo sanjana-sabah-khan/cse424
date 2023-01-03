@@ -2,6 +2,7 @@
 Unlisted youtube video:
 # to be given
 
+
 Proof of Submission:
 https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Proof%20of%20Submission.pdf
 
@@ -9,7 +10,7 @@ Conference submitted paper / paper submission / login Link:
 https://edas.info/N30081
 
 Paper title:
-Bangla Question Anwering System Using BanglaBERT Language Model.
+Bangla Question Answering System Using BanglaBERT Language Model and AdaFactor Optimizer
 
 First Paper draft link:
 https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf
@@ -28,7 +29,7 @@ Paper submission ID: (received) from conference/workshop
 1570875982
 
 Conference Name:
-IJCNN 2023 : International Joint Conference on Neural Networks
+2023 International Joint Conference on Neural Networks (IJCNN)
 
 Conference URL:
 https://2023.ijcnn.org/
