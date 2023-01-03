@@ -3,11 +3,11 @@ Out of the three papers uploaded here, "Bangla_Question_Anwering_System_Using_BE
 
 
 Unlisted youtube video:
-# to be given
-
+https://youtu.be/u3DQM6FFM2k
 
 Proof of Submission:
 https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Proof%20of%20Submission.pdf
+
 
 Conference submitted paper / paper submission / login Link:
 https://edas.info/N30081
@@ -22,9 +22,6 @@ First Paper draft link:
 Final Paper Link:
 https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf
 
-
-Paper ppt presentation (anyone can view without login):
-# to be given
 
 Paper submission date (to workshop/conference):
 January 15, 2023
