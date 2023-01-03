@@ -1,15 +1,12 @@
-Out of the three papers uploaded here, "Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf" is the FIRST Draft pdf and "Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf" is the UPDATED FIRST Draft pdf and Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf is the FINAL paper pdf.
-
 
 Unlisted youtube video:
 # to be given
-
 
 Proof of Submission:
 
 
 Conference submitted paper / paper submission / login Link:
-
+https://softconf.com/acl2023/papers/login/scmd.cgi?scmd=index&_Xrefer_=aHR0cHM6Ly9zb2Z0Y29uZi5jb20vYWNsMjAyMy9wYXBlcnMvdXNlci9zY21kLmNnaT9zY21kPWFMb2dpbiZwYXNzY29kZT0yNDNYLUU5RTRQM0g2Sjk=
 
 Paper title:
 Visual Storytelling: Generating Stories from images using Transformers
@@ -21,21 +18,18 @@ https://github.com/sanjana-sabah-khan/cse424/blob/main/submission5/Visual_Storyt
 Final Paper Link:
 
 
-
-Paper ppt presentation (anyone can view without login):
-# to be given
-
 Paper submission date (to workshop/conference):
-
+January 20, 2023
 
 Paper submission ID: (received) from conference/workshop
+Confirmation Number: 243
+Submission Passcode: 243X-E9E4P3H6J9
 
-
-Conference Name:
-
+Conference Name: 
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
 
 Conference URL:
-
+https://2023.aclweb.org/
 
 Group Number:
 06
