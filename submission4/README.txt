@@ -1,4 +1,7 @@
 
+Out of the three papers uploaded here, "Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf" is the FIRST Draft pdf and "Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf" is the UPDATED FIRST Draft pdf and Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf is the FINAL paper pdf.
+
+
 Unlisted youtube video:
 # to be given
 
@@ -40,4 +43,3 @@ Group Number:
 Group Members:
 16241009	Mehreen Khan 
 18101502	Sanjana Sabah Khan
-17301235	Dewan Golam Mortoza
