@@ -10,7 +10,7 @@ https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Proof%20of%20
 
 
 Conference submitted paper / paper submission / login Link:
-https://edas.info/N30081
+https://edas.info/N30081 ,  https://edas.info/index.php?c=30081
 
 Paper title:
 Bangla Question Answering System Using BanglaBERT Language Model and AdaFactor Optimizer
