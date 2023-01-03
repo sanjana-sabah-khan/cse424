@@ -16,10 +16,11 @@ Paper title:
 Bangla Question Answering System Using BanglaBERT Language Model and AdaFactor Optimizer
 
 First Paper draft link:
-https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf
+(1st) https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf
+(UPDATED) https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf
 
 Final Paper Link:
-https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf
+https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf
 
 
 Paper ppt presentation (anyone can view without login):
