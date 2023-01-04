@@ -1,5 +1,5 @@
 
-Out of the three papers uploaded here, "Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf" is the FIRST Draft pdf and "Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf" is the UPDATED FIRST Draft pdf and Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf is the FINAL paper pdf.
+Out of the three papers uploaded here, "Bangla_Question_Anwering_System_Using_BERT_Language_Model_-1.pdf" is the FIRST Draft pdf and "Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf" is the UPDATED FIRST Draft pdf and Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer[FINAL].pdf is the FINAL paper pdf.
 
 
 Unlisted youtube video:
@@ -20,7 +20,7 @@ First Paper draft link:
 (UPDATED) https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_.pdf
 
 Final Paper Link:
-https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer(FINAL).pdf
+https://github.com/sanjana-sabah-khan/cse424/blob/main/submission4/Bangla_Question_Answering_System_Using_BanglaBERT_Language_Model_and_AdaFactor_Optimizer%5BFINAL%5D.pdf
 
 
 Paper submission date (to workshop/conference):
